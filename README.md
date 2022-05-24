@@ -1,6 +1,7 @@
 <img src="https://user-images.githubusercontent.com/36128807/170049025-b98c278e-8800-4738-a4f9-3465cbd754c2.png" width="100%">
 
 
+
 # LendingClub Classification
 LendingClub is a US peer-to-peer lending company, headquartered in San Francisco, California.[3] It was the first peer-to-peer lender to register its offerings as securities with the Securities and Exchange Commission (SEC), and to offer loan trading on a secondary market. LendingClub is the world's largest peer-to-peer lending platform.
 
